@@ -14,6 +14,7 @@ Welcome to my digital portfolio
   - Chosen career options
  
     **Attachments:**
+    ![Career Counselling Screenshot](222058137/career development.jpeg)
 <!--
 **222058137/222058137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
