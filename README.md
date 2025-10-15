@@ -2,7 +2,7 @@
 Welcome to my digital portfolio
 
 
-## 🕰️ Career Counselling
+🕴️: Business Communication
 
 ### 📖 Evidence
 
@@ -20,16 +20,16 @@ Welcome to my digital portfolio
  ### ✍️ Reflection 
 
 **S – Situation:**  
-As part of the Work Readiness Training, we were guided through career development and counselling sessions aimed at helping us identify our career paths and prepare for the job market in the ICT sector.
+During my Business Communication test, I was tasked with demonstrating my understanding of various aspects of professional communication, including verbal and non-verbal communication, email etiquette, formal language, and virtual meeting protocols.
 
 **T – Task:**  
-I was expected to engage with the career development material, reflect on my own goals, and create a clearer vision for my future profession. I also needed to identify the gaps in my skills and experiences.
+My goal was to apply the concepts I had learned in class to correctly answer questions that tested both my knowledge and my practical understanding of business communication principles.
 
 **A – Action:**  
-I attended a career counselling session provided by the university and completed a series of exercises including career interest assessments and goal-setting tasks. I explored job descriptions in my field (Communication Networks) and mapped out the required qualifications and soft skills. 
+I carefully reviewed each question, recalling the lessons and examples from my coursework. I considered when to use formal language, how to maintain a professional tone in emails, and proper etiquette in virtual meetings. I applied my knowledge of non-verbal cues and professional communication standards to ensure I selected the most appropriate answers.
 
 **R – Result:**  
-I gained a much clearer understanding of how my academic background aligns with roles like Network Administrator and Security Analyst. I also realized the importance of continuous learning and soft skills like communication and adaptability. As a result, I have developed a career action plan and started working toward certifications that will strengthen my CV.
+I successfully completed the test with a 100% score, demonstrating a strong understanding of effective business communication. This experience reinforced the importance of clear, professional, and context-appropriate communication in workplace settings, and I feel more confident in applying these principles in real-life scenarios such as meetings, emails, and virtual collaborations.
 
  
 ## 🛠️ Skills and Interests
