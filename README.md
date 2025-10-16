@@ -2,20 +2,21 @@
 Welcome to my digital portfolio
 
 
-🕴️: Business Communication
+## 👔 Business Communication
 
 ### 📖 Evidence
 
-- **Session Title:** Career Development  
-- **Date Attended:** 7 February 2025  
+- **Session Title:** Business Communication
+- **Date Attended:** 7 March 2025  
 - **Key Topics Covered:**
-  - Process of helping an individual create a personal career plan
-  - Job versus career
-  - Chosen career options
+  - The relationship between tone and professionalism
+  - Professional greeting
+  - Acknowledging the pandemic
  
     **Attachments:**
     
- ![career development](https://github.com/user-attachments/assets/0f229541-b825-47bf-8cc1-f9486b87a0b8)
+ ![WhatsApp Image 2025-10-16 at 09 51 53](https://github.com/user-attachments/assets/fd035149-0f8b-4af7-9327-8abd8fff9fc9)
+
 
  ### ✍️ Reflection 
 
@@ -32,72 +33,68 @@ I carefully reviewed each question, recalling the lessons and examples from my c
 I successfully completed the test with a 100% score, demonstrating a strong understanding of effective business communication. This experience reinforced the importance of clear, professional, and context-appropriate communication in workplace settings, and I feel more confident in applying these principles in real-life scenarios such as meetings, emails, and virtual collaborations.
 
  
-## 🛠️ Skills and Interests
+## 💼 interview skills
 
 ### 📄 Evidence
+- Date submitted: 14 March 2025
 
 **Top Skills:**
-- Technical Skills: IP Addressing & Subnetting
-- Productivity: Microsoft Excel, Word, PowerPoint
-- Soft Skills: Communication, Time Management, Problem Solving
+- Communication skills
+- Interpersonal skills
+-Critical thinking
 
-  ### 🧰 Career Interests
-  - Network Administrator
-  - Network Security Analyst
+ 
  
     **Attachments**
  
-    ![WhatsApp Image 2025-05-21 at 11 55 30](https://github.com/user-attachments/assets/276b5a7c-e7da-42f5-8329-7c7dba99ef5d)
+    ![WhatsApp Image 2025-10-16 at 09 54 11](https://github.com/user-attachments/assets/b48cfeda-26c7-4993-b2a1-b2d54098721c)
 
+    
 
   
     ### ✍️ Reflection 
 
 **S – Situation:**  
-During the Work Readiness Training and throughout my coursework in Communication Networks, I needed to evaluate and understand which skills are most relevant in the networking field.
-
+I participated in an Interview Skills module designed to help me prepare for real-world job interviews by improving my understanding of common questions, effective communication techniques, and professional presentation.
 **T – Task:**  
-I was tasked with identifying my strongest technical skills and pinpointing the areas I needed to improve. I also had to clarify my career direction.
-
+My goal was to successfully complete the quiz and strengthen my ability to respond confidently to interview questions such as “Tell me about yourself,” “What are your weaknesses?” and to understand the purpose of tools like the CAR (Context, Action, Result) method
 **A – Action:**  
-I reviewed my course projects and lab work to assess my technical competencies. I also completed additional certifications in networking and security. I spoke to industry professionals and used self-assessment tools to define my career goals.
+I studied the key principles of interview preparation, including researching companies before interviews, using structured methods like CAR to answer behavioral questions, and approaching difficult questions such as weaknesses with honesty and self-awareness. During the quiz, I applied this knowledge to identify the best strategies for each scenario and focused on understanding how to present my strengths effectively.
 
 **R – Result:**  
-I now have a clear roadmap to pursue roles such as Network Administrator or Security Analyst. I also gained confidence in my network troubleshooting skills and identified areas like cloud networking where I want to gain more experience.
+I successfully demonstrated a strong understanding of effective interview techniques and showed confidence in applying them. Completing this module helped me feel more prepared for future interviews and improved my ability to communicate professionally and authentically.
 
-## 🧠 Personality Assessment
+## 🗣️ Mock interview
 ### 📄 Evidence
-**Assessment Tool Used:** Personality Profile  
+**Assessment Tool Used:** Video Presentation
 **Date Completed:** 21 March 2025  
 
 **Traits Summary:**
-- Analytical and detail-oriented
-- Prefers structure, rules, and accuracy
-- Strong problem-solving and troubleshooting abilities
-- Values precision and avoids taking risks without planning
-
+-  Expressed ideas clearly and confidently, using structured answers
+- Demonstrated appropriate body language, tone, and etiquette
+- Maintained composure and professionalism throughout the interview
 
 
 **Attachments**
 
-![WhatsApp Image 2025-05-21 at 11 56 36](https://github.com/user-attachments/assets/7497021c-c9fb-4911-87a1-c6a6870b2b63)
+https://myclassroom.cput.ac.za/ultra/courses/_162231_1/outline/assessment/_3338641_1/overview/student-submission-view?contentId=_3338641_1&gradeId=_11348249_1&attemptId=_10972648_1&courseId=_162231_1
 
 
 ### ✍️ Reflection
 
 **S – Situation:**  
-As part of the Work Readiness Training, we were asked to complete a personality assessment to better understand our natural traits and working preferences.
+As part of the Work Readiness Training, I participated in a mock interview exercise designed to simulate a real job interview. The purpose of this activity was to help me practice my communication skills, improve my confidence, and receive constructive feedback on my interview performance.
 
 **T – Task:**  
-The goal was to analyze how our personality type fits with potential roles in the ICT industry and how we can leverage our strengths and improve our weaknesses.
+My task was to prepare for and participate in the mock interview as if it were a real professional setting. This included researching the company and role, preparing answers to common interview questions, and demonstrating appropriate body language, tone, and professionalism throughout the session.
 
 **A – Action:**  
-I completed the personality profiling task and received the result. I reviewed the profile, reflected on my academic experiences, and noted how the traits applied to team projects and independent work.
+I prepared by reviewing typical interview questions and applying techniques such as the CAR (Context, Action, Result) method to structure my answers. During the interview, I focused on maintaining good eye contact, clear communication, and positive body language. Afterward, I reflected on the feedback received and identified areas for improvement, such as expanding on my achievements and being more concise with my answers.
 
 **R – Result:**  
-I learned that my strengths—being detail-oriented, logical, and dependable—align well with roles in network administration and cybersecurity. However, I also realized I need to work on adaptability and creative thinking. This awareness has helped me plan personal development goals to improve my teamwork and problem-solving in dynamic environments.
+Through this experience, I gained valuable insight into how to handle real interview situations with more confidence and professionalism. The feedback helped me recognize my strengths and areas that need improvement, allowing me to better prepare for future job interviews and present myself more effectively to potential employers.
 
-## 📄 Curriculum Vitae (CV)
+## 🤝 Professional Networking
 
 ### 📄 Evidence
 
@@ -120,18 +117,18 @@ I learned that my strengths—being detail-oriented, logical, and dependable—a
 ### ✍️ Reflection
 
 **S – Situation:**  
-As part of the Work Readiness Training, we were required to design a professional CV tailored to our career path in ICT.
+I completed the Professional Networking module, which was designed to help me understand the importance of building and maintaining meaningful professional relationships. The activity focused on key networking principles, the value of communication, and strategies for developing connections in a professional setting.
 
 **T – Task:**  
-I needed to create a one-page CV that clearly highlighted my qualifications, skills, and experience relevant to Communication Networks.
+My task was to complete the module and quiz to demonstrate my understanding of networking concepts such as the purpose of professional networking, the importance of attending networking events, and common mistakes to avoid. I also aimed to learn how to apply these principles effectively in real-life career situations.
 
 **A – Action:**  
-I researched CV best practices, selected a clean layout, and used action words to describe my experiences. I emphasized my networking coursework, tools (e.g., Cisco Packet Tracer), and certifications.
+I carefully reviewed each topic, focusing on understanding what makes networking effective and how to approach it with a positive and professional attitude. I learned about the “golden rule” of networking—offering value to others before seeking something in return—and explored the steps to building a professional network, starting with identifying key contacts and maintaining genuine communication.
 
 **R – Result:**  
-I completed a polished, professional CV that I can confidently use when applying for internships or jobs. The process taught me how to tailor my resume to specific job roles and how to highlight both technical and soft skills effectively.
+By completing this module, I strengthened my knowledge of how to build and sustain professional relationships that support career growth. I gained a clearer understanding of how to network confidently, avoid common mistakes, and approach interactions in a way that is both professional and mutually beneficial.
 
-## 📤 CV Submission
+## 🏢 Workplace Etiquette
 
 ### 📄 Evidence
 
@@ -149,17 +146,16 @@ I completed a polished, professional CV that I can confidently use when applying
 ### ✍️ Reflection
 
 **S – Situation:**  
-After creating my CV as part of the assessment, I needed to submit it via Blackboard for grading and evaluation.
+I completed the Workplace Etiquette module, which focused on understanding professional behavior, communication, and conduct in a work environment. The purpose of this activity was to help me learn how to maintain professionalism and build positive relationships in the workplace
 
 **T – Task:**  
-I had to ensure that the final version of my CV was properly formatted, free of errors, and submitted before the deadline.
+My task was to complete the quiz and demonstrate my understanding of appropriate workplace behavior, including respect for colleagues, effective communication, and maintaining a positive and responsible attitude in a professional setting
 
 **A – Action:**  
-I double-checked the formatting, saved the file as a PDF, and confirmed the file name followed the required naming convention. I logged in to Blackboard, uploaded the file, and took a screenshot for my records.
+I reviewed key topics such as punctuality, teamwork, communication styles, and workplace respect. I learned how professional etiquette contributes to a healthy work culture and how to handle challenging situations with professionalism. During the quiz, I applied these principles to identify correct responses that reflect professional standards and ethical behavior in various workplace scenarios.
 
 **R – Result:**  
-My CV was submitted on time without any technical issues. This process taught me the importance of attention to detail, file management, and the value of keeping submission proof for academic or job purposes.
-
+Completing this module helped me develop a deeper understanding of how to conduct myself professionally in different work situations. I gained confidence in my ability to communicate respectfully, collaborate effectively, and represent myself positively in any workplace environment.
 
 
   
