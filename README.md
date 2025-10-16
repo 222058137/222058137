@@ -33,7 +33,7 @@ I carefully reviewed each question, recalling the lessons and examples from my c
 I successfully completed the test with a 100% score, demonstrating a strong understanding of effective business communication. This experience reinforced the importance of clear, professional, and context-appropriate communication in workplace settings, and I feel more confident in applying these principles in real-life scenarios such as meetings, emails, and virtual collaborations.
 
  
-## 💼 interview Skills
+## 💼 Interview Skills
 
 ### 📄 Evidence
 - Date submitted: 14 March 2025
