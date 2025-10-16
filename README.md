@@ -33,7 +33,7 @@ I carefully reviewed each question, recalling the lessons and examples from my c
 I successfully completed the test with a 100% score, demonstrating a strong understanding of effective business communication. This experience reinforced the importance of clear, professional, and context-appropriate communication in workplace settings, and I feel more confident in applying these principles in real-life scenarios such as meetings, emails, and virtual collaborations.
 
  
-## 💼 interview skills
+## 💼 interview Skills
 
 ### 📄 Evidence
 - Date submitted: 14 March 2025
@@ -41,7 +41,8 @@ I successfully completed the test with a 100% score, demonstrating a strong unde
 **Top Skills:**
 - Communication skills
 - Interpersonal skills
--Critical thinking
+- Critical thinking
+ 
 
  
  
@@ -56,18 +57,23 @@ I successfully completed the test with a 100% score, demonstrating a strong unde
 
 **S – Situation:**  
 I participated in an Interview Skills module designed to help me prepare for real-world job interviews by improving my understanding of common questions, effective communication techniques, and professional presentation.
+
 **T – Task:**  
 My goal was to successfully complete the quiz and strengthen my ability to respond confidently to interview questions such as “Tell me about yourself,” “What are your weaknesses?” and to understand the purpose of tools like the CAR (Context, Action, Result) method
+
 **A – Action:**  
 I studied the key principles of interview preparation, including researching companies before interviews, using structured methods like CAR to answer behavioral questions, and approaching difficult questions such as weaknesses with honesty and self-awareness. During the quiz, I applied this knowledge to identify the best strategies for each scenario and focused on understanding how to present my strengths effectively.
 
 **R – Result:**  
 I successfully demonstrated a strong understanding of effective interview techniques and showed confidence in applying them. Completing this module helped me feel more prepared for future interviews and improved my ability to communicate professionally and authentically.
 
-## 🗣️ Mock interview
+## 🗣️ Mock Interview
+
 ### 📄 Evidence
-**Assessment Tool Used:** Video Presentation
-**Date Completed:** 21 March 2025  
+- Assessment Tool Used: Video Presentation
+- Date submitted: 21 March 2025
+
+ 
 
 **Traits Summary:**
 -  Expressed ideas clearly and confidently, using structured answers
@@ -98,20 +104,19 @@ Through this experience, I gained valuable insight into how to handle real inter
 
 ### 📄 Evidence
 
-**CV Title:** Luchwayito Bokweni
+Date submitted: 21 March 2025
 
-**Format:** One-page professional CV focused on ICT / Communication Networks
+**Key Topics:**
+- How to network
+- Who is in your network
+- How to mantain your network
+- Know where to network
 
-**Key Sections Included:**
-- Personal Information
-- Career Objective
-- Education
-- Technical & Soft Skills
-- References
 
 **Attachments:**
 
-![WhatsApp Image 2025-05-23 at 14 57 29](https://github.com/user-attachments/assets/44ae50fd-e75e-424c-8f3d-60efc616bc39)
+![WhatsApp Image 2025-10-16 at 10 31 59](https://github.com/user-attachments/assets/0fdb0df7-5d6f-48be-bd20-891ae313c007)
+
 
   
 ### ✍️ Reflection
@@ -132,14 +137,11 @@ By completing this module, I strengthened my knowledge of how to build and susta
 
 ### 📄 Evidence
 
-**Submission Method:** Uploaded on Blackboard as part of the PRP371S assessment  
-**Date of Submission:** 07 March 2025  
-**Submission Type:** PDF upload (Final version of CV)
+**Date of Submission:** 28 March 2025  
 
 **Attachments**
 
-![WhatsApp Image 2025-05-23 at 14 57 55](https://github.com/user-attachments/assets/566cca34-a912-47e6-bbce-48e1b8d4c1b3)
-
+![WhatsApp Image 2025-10-16 at 10 31 59 (1)](https://github.com/user-attachments/assets/243cac14-edb0-489c-ad14-55938362ba97)
 
 
 
